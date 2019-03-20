@@ -1,0 +1,9 @@
+Package: com.samgisaninja.hidelockicon
+Name: Hide Lock Icon
+Depends: mobilesubstrate, firmware (>= 11.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hides FaceID lock icon, requested by @OodleMyNoodle#6211
+Maintainer: Samg_is_a_Ninja
+Author: Samg_is_a_Ninja
+Section: Tweaks
